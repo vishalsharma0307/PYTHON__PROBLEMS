@@ -12,3 +12,5 @@ for num in range(lower,upper+1):
     if(sum==num):
         print("Armstronge NO is :",num)
         
+
+        
